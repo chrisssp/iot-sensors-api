@@ -73,9 +73,3 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for branch naming, commit convent
 ## License
 
 This project is licensed under the GPL v3 — see the [LICENSE](LICENSE) file for details.
-
----
-
-<p align="center">
-  <sub>Built with ❤️ · 2026</sub>
-</p>
