@@ -73,9 +73,3 @@ Lee [CONTRIBUTING.md](CONTRIBUTING.md) para conocer las convenciones de ramas, c
 ## Licencia
 
 Este proyecto está bajo la licencia GPL v3 — ver [LICENSE](LICENSE) para más detalles.
-
----
-
-<p align="center">
-  <sub>Hecho con ❤️ · 2026</sub>
-</p>
